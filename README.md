@@ -1,12 +1,5 @@
-# Bayesian-CP-Factorization-BCPF-
+# Bayesian-CP-Factorization (BCPF)
 Matlab code of Bayesian CP Factorization for Tensor Completion
-(Written by Qibin Zhao 2014)
-
-
-To run the code:
-1. Change Matlab work directory to "/BCPF_Toolbox_QZhao/".
-2. Run  "loadpah" code to add the current folder and subfolders into Matlab path searching list.
-3. Open and run the demo files. 
 
 
 We provide two demo codes:
@@ -24,3 +17,6 @@ The package includes four algorithms:
 In this package, we used the tensor toolbox 2.5, which is downloaded from (http://www.sandia.gov/~tgkolda/TensorToolbox)
 
 The tools for visualization of tensor with voxels is from Tensorlab (http://www.tensorlab.net/)
+
+Referecne:
+  Q. Zhao, L. Zhang, and A. Cichocki. Bayesian CP factorization of incomplete tensors with automatic rank determination. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 37(9):1751–1763, 2015.
